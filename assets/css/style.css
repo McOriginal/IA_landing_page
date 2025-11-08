@@ -1441,6 +1441,9 @@ a.button.generate-btn::before {
   overflow: hidden;
 }
 .robot {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
   position: absolute;
   top: -50px;
   right: 70px;
